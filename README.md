@@ -47,14 +47,6 @@ I believe in learning by building, consistency, and creating technology-driven s
 
 ---
 
-## 📊 GitHub Activity
-
-![Nazik's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naziksalihu&show_icons=true)
-
-
-
----
-
 ## 🎯 Current Focus
 - Strengthening frontend fundamentals  
 - Building responsive websites weekly  
