@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I'm Nazik 👋  
+### Frontend Developer (HTML • CSS • Bootstrap) | Aspiring PERN Stack Developer
 
-<!--
-**naziksalihu/naziksalihu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a motivated **frontend developer** with a solid foundation in **HTML, CSS, and Bootstrap**.  
+Currently, I am **progressively learning the PERN stack (PostgreSQL, Express, React, Node.js)** with the goal of becoming a full-stack developer capable of building scalable, real-world web applications.
 
-Here are some ideas to get you started:
+I believe in learning by building, consistency, and creating technology-driven solutions with real business value.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Current Skills
+
+**Frontend**
+- HTML5 (Semantic Markup)
+- CSS3 (Flexbox, Responsive Design)
+- Bootstrap 5
+- Basic JavaScript (Learning)
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Chrome DevTools
+
+---
+
+## 📌 Projects
+
+### 🔹 Ceylon Tea - Premium Landing Page
+- Built using HTML, CSS, and Bootstrap  
+- Fully responsive layout  
+- Clean UI and structured code  
+🔗 **Repository:** https://naziksalihu.github.io/webprc01/
+
+---
+
+## 🚀 Learning Roadmap (In Progress)
+
+- ✔ HTML & CSS Fundamentals  
+- ✔ Bootstrap Responsive Design  
+- 🔄 JavaScript (ES6+)  
+- ⏳ React.js  
+- ⏳ Node.js & Express  
+- ⏳ PostgreSQL  
+- ⏳ Full-Stack PERN Projects  
+
+*(This roadmap will be updated as I progress.)*
+
+---
+
+## 📊 GitHub Activity
+
+![Nazik's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naziksalihu&show_icons=true)
+
+
+
+---
+
+## 🎯 Current Focus
+- Strengthening frontend fundamentals  
+- Building responsive websites weekly  
+- Learning JavaScript and React step by step  
+- Preparing for full-stack PERN development  
+
+---
+
+## 🤝 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/nazik-salihu/ 
+- **Email:** naziksalihu@gmail.com  
+
+---
+
+⭐ *Follow my journey as I grow into a full-stack PERN developer.*
