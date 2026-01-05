@@ -29,7 +29,7 @@ I believe in learning by building, consistency, and creating technology-driven s
 - Built using HTML, CSS, and Bootstrap  
 - Fully responsive layout  
 - Clean UI and structured code  
-🔗 **Repository:** https://naziksalihu.github.io/webprc01/
+🔗 **Repository:** https://naziksalihu.github.io/Ceylon-Tea-Premium-Landing-Page/
 
 ---
 
